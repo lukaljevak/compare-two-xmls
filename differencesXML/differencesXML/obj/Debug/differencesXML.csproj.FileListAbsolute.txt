@@ -1,0 +1,7 @@
+C:\Users\Učenik\Documents\differencesXML\differencesXML\bin\Debug\differencesXML.exe.config
+C:\Users\Učenik\Documents\differencesXML\differencesXML\bin\Debug\differencesXML.exe
+C:\Users\Učenik\Documents\differencesXML\differencesXML\bin\Debug\differencesXML.pdb
+C:\Users\Učenik\Documents\differencesXML\differencesXML\obj\Debug\differencesXML.csproj.AssemblyReference.cache
+C:\Users\Učenik\Documents\differencesXML\differencesXML\obj\Debug\differencesXML.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Documents\differencesXML\differencesXML\obj\Debug\differencesXML.exe
+C:\Users\Učenik\Documents\differencesXML\differencesXML\obj\Debug\differencesXML.pdb
